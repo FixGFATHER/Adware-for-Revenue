@@ -5,7 +5,7 @@ Sure, here's the GitHub code for your repository description:
 
 **DarkNetAdware** is a cutting-edge ethical adware tool designed to help you generate revenue through anonymous pay-per-view (PPV) and pay-per-click (PPC) services. Our sophisticated and user-friendly adware seamlessly integrates with popular web browsers to deliver targeted advertisements without compromising user privacy or consent.
 
-<img src="https://i.ibb.co/fDS7MY1/Screenshot-2024-05-26-094422.jpg" alt="DarkNet Adware Builder Screenshot" width="800">
+<img src="https://imgur.com/gLyfha5.jpg" alt="DarkNet Adware Builder Screenshot" width="800">
 
 
 ## Features
