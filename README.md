@@ -7,6 +7,10 @@ Sure, here's the GitHub code for your repository description:
 
 <img src="https://imgur.com/gLyfha5.jpg" alt="DarkNet Adware Builder Screenshot" width="800">
 
+## BEFORE OPENING:
+
+**This .bat file includes an example script ("example.py") that will execute after running the .bat file. If you do not wish to run this example script, please remove "example.py" from the folder or edit the .bat file to exclude it.**
+
 
 ## Features
 
