@@ -87,7 +87,7 @@ pypiwin32==223
 
 2. **Run the Script**:
    ```bash
-   python ethical_adware.py
+   python DarkNet-Adware.py
    ```
 
 ---
